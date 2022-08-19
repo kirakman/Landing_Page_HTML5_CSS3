@@ -1,0 +1,2 @@
+# Landing_Page_HTML5_CSS3
+Nesse repositório, colocarei o meu projeto de LANDING PAGE com HTML5 e CSS3 que aprendi com a Rafaela Ballerini. Nele, aprendi a usar recursos no Visual Studio Code. Criei uma Landing Page do meu canal no youtube utilizando as minhas redes sociais com animação e transição de cores, links com Blank para abrir em uma nova guia e um botão para se inscrever. Além de destacar títulos, aprendi sobre a cascata de CSS e a importância de deixar um design atrativo. É algo simples, mas fiquei muito feliz de já conseguir codar :)
